@@ -17,7 +17,7 @@ Table of Contents
 1) Introduction
 Foodify is a front-end project developed to enhance the food ordering experience in a specific zonal area. 
 The main focus of the project is the home page screen, which showcases various animations and visual elements to capture the attention of users and provide a memorable browsing experience. 
-This project was created by Nidhi Kaswala and [Your Name] as collaborative contributors. 
+This project was created by Nidhi Kaswala and Praful Desai as collaborative contributors. 
 Although the project currently consists of a single screen, it can be further developed to include additional features and screens for a complete food delivery website.
 
 2) Features
