@@ -1,4 +1,4 @@
-Foodify
+# Foodify
 Foodify is a non-responsive front-end project for a food delivery website designed to cater to a specific zonal area. 
 It provides a visually appealing and interactive home page screen with animations to engage users and create an enticing user experience. 
 This project was developed in collaboration with Nidhi Kaswala, a valued contributor. 
